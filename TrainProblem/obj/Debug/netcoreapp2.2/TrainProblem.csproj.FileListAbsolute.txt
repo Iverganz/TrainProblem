@@ -1,0 +1,9 @@
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\bin\Debug\netcoreapp2.2\TrainProblem.deps.json
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\bin\Debug\netcoreapp2.2\TrainProblem.dll
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\bin\Debug\netcoreapp2.2\TrainProblem.pdb
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.csprojAssemblyReference.cache
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.AssemblyInfo.cs
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.dll
+C:\Users\User\RiderProjects\TrainProblem\TrainProblem\obj\Debug\netcoreapp2.2\TrainProblem.pdb
